@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    font-weight: bolder;
+    color: white;
+}
+
+.navbar{
+    padding-left: 10px;
+}
+
+#logo {
+    width: 100px;
+}
+
+.inicial {
+    padding: 20px;
+    padding-top: 30px;
+
+}
+
+.bg_video{
+	position: fixed; 
+	right: 0; 
+	bottom: 0;
+	min-width: 100%; 
+	min-height: 100%;
+	width: auto; 
+	height: auto; 
+	z-index: -1000;
+	background: url(img/tempos.png) no-repeat;
+	background-size: cover; 
+}
+#destaque {
+    padding-top: 150px;
+    font-size: 50%;
+}
+
+
+.imagemdebaixo {
+    width: 100%;    
+ 
+}
