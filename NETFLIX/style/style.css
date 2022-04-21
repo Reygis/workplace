@@ -40,10 +40,9 @@ body {
     font-size: 50%;
 }
 
-
-.imagemdebaixo {
+.fotocarrosel {
+    height: 100%;
     width: 100%;
-    height: 90%;
-    border: 1px solid white;
- 
+    display: block;
+    padding-top: 100px;
 }
